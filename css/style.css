@@ -529,6 +529,7 @@ ul {
   background-size: 200% auto;
   border: 1px solid transparent;
   box-shadow: 0px 12px 20px 0px rgba(255, 126, 95, 0.15);
+  z-index:9999 !important;
 }
 
 /* line 38, E:/172 Etrain Education/172_Etrain_Education_html/sass/_button.scss */
